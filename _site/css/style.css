@@ -743,7 +743,7 @@ h2 {
   font-weight: 400;
   font-size: 0.84em;
   margin: 0;
-  color: #E97024;
+  color: #8f9342;
   text-transform: uppercase;
   line-height: initial;
   letter-spacing: 0.5px;
@@ -757,7 +757,7 @@ font-family: 'Lato', sans-serif;
 text-transform: uppercase;
 font-size: 1.5em;
 margin: 0;
-color: #36457A;
+color: #8f9342;
 }
 
 .body {
@@ -780,13 +780,13 @@ margin: 0;
 }
 
 .body-link {
-color: #E97024;
+color: #8f9342;
 text-decoration: none;
 transition: all 0.8s linear;
 }
 
 .body-link:hover {
-color: #36457A;
+color: #8f9342;
 }
 
 .mob-link {
@@ -832,7 +832,7 @@ blockquote {
 }
 
 .content tr {
-  border-bottom: 1px solid #E97024;
+  border-bottom: 1px solid #8f9342;
 }
 
 th {
@@ -842,7 +842,7 @@ th {
 .date-title {
   display: block;
   padding: 0.5em;
-  background-color: #E97024;
+  background-color: #8f9342;
   color: #FFF;
 }
 
@@ -876,12 +876,12 @@ th {
 	text-align: right;
 	text-decoration: none;
 	text-transform: uppercase;
-	color: #36457A;
+	color: #8f9342;
 	transition: all 0.8s ease;
 }
 
 .top:hover {
-	color: #E97024;
+	color: #8f9342;
 }
 
 .top:before {
@@ -899,7 +899,7 @@ th {
 }
 
 .keynotes {
-	border-bottom: #36457A 1px solid;
+	border-bottom: #8f9342 1px solid;
 	text-align: left;
 }
 
@@ -908,7 +908,7 @@ th {
 }
 
 .keynotes a {
-	color: #E97024;
+	color: #8f9342;
 	text-decoration: none;
 	border-bottom: 1px solid;
 	transition: all 0.3s linear;
@@ -949,7 +949,7 @@ th {
 }
 
 .pdf {
-	color: #E97024;
+	color: #8f9342;
 	font-family: 'Lato', sans-serif;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -957,7 +957,7 @@ th {
 }
 
 .pdf:hover {
-	color: #36457A;
+	color: #8f9342;
 }
 
 .pdf img {
@@ -969,7 +969,7 @@ th {
 }
 
 .keynote-info .top a {
-	color: #36457A;
+	color: #8f9342;
 	font-family: 'Lato', sans-serif;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -977,11 +977,11 @@ th {
 }
 
 .keynote-info .top a:hover {
-	color: #E97024;
+	color: #8f9342;
 }
 
 .border {
-	border-bottom: #36457A 1px solid;
+	border-bottom: #8f9342 1px solid;
 }
 
 .keynoteIndex {
@@ -1006,17 +1006,17 @@ h1 {
 	padding: 0.5em 0.5em 1em;
     font-size: 1.25em!important;
 	margin: 0!important;
-	color: #E97024;
+	color: #8f9342;
 }
 
 .subhead {
   font-family: 'Lato', sans-serif;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 600;
   padding: 0 1em 1em;
   font-size: 1em!important;
   margin: 0;
-  color: #36457A;
+  color: #8f9342;
   letter-spacing: 4px;
 }
 
@@ -1027,13 +1027,13 @@ h1 {
 }
 
 .bg-link {
-	border: 1px solid;
+	border: 2px solid;
 	padding: 0.5em;
-	color: #E97024;
+	color: #8f9342;
 	text-decoration: none;
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
-	font-weight: 300;
+	font-weight: 400;
 	font-size: 1em;
 	display: block;
 	margin: 1em;
@@ -1041,14 +1041,14 @@ h1 {
 }
 
 .bg-link:hover {
-	background-color: #36457A;
-	border: 1px solid #36457A;
+	background-color: #8f9342;
+	border: 2px solid #8f9342;
 	color: #FFF;
 }
 
 .dot {
 	display: none;
-	color: #36457A;
+	color: #8f9342;
 	font-size: 2em;
 	vertical-align: middle;
 	margin: 0;
@@ -1061,7 +1061,7 @@ h1 {
 	padding: 0px; 
 }
 .side-bar-menu{
-	border: 1px solid  #E97024;
+	border: 1px solid  #8f9342;
 	border-bottom:none;
 	list-style-type: none;
 	margin:0px;
@@ -1074,7 +1074,7 @@ h1 {
 .side-bar-menu a {
 	padding: 0.5em;
 	margin:0;
-	color: #E97024;
+	color: #8f9342;
 	text-decoration: none;
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
@@ -1083,11 +1083,11 @@ h1 {
 	display: block;
 	width: 100%;
 	text-decoration: none;
-	border-bottom: 1px solid  #E97024;
+	border-bottom: 1px solid  #8f9342;
 	transition: all 0.8s ease;
 }
 .side-bar-menu a:hover {
-	background-color: #36457A;
+	background-color: #8f9342;
 	color: #FFF;
 }
 
@@ -1113,7 +1113,7 @@ nav#slide-menu {
 	width: 100%;
 	max-width: 141px;
 	height: 100%;
-	  background-color: #36457A;
+	  background-color: #8f9342;
 	overflow-x: hidden;
   z-index: 99999;
 
@@ -1205,7 +1205,7 @@ transition: all 300ms;
 			display: inline-block;
 			width: 36px;
 			height: 36px;
-			color: #E97024;
+			color: #8f9342;
 			font-family: "icomoon";
 			font-style: normal;
 			font-size: 1.2em;
@@ -1224,7 +1224,7 @@ transition: all 300ms;
 		}
 
 		.menu-trigger:hover:before { 
-			color: #36457A;
+			color: #8f9342;
 		}
 
 		.menu-active .menu-trigger:after { 
@@ -1232,7 +1232,7 @@ transition: all 300ms;
 			display: inline-block;
 			width: 36px;
 			height: 36px;
-			color: #36457A;
+			color: #8f9342;
 			background-color: #FFF;
 			font-family: "icomoon";
 			font-style: normal;
@@ -1248,7 +1248,7 @@ transition: all 300ms;
 		}
 
 		.menu-trigger:hover:after {
-			color: #E97024;
+			color: #8f9342;
 		}
 
 body.menu-active div#content { right: 141px;}
@@ -1267,7 +1267,7 @@ padding: 0;
 }
 
 .searchbox .body {
-  color: #E97024;
+  color: #8f9342;
   text-align: center;
   padding: 3px 0;
 }
@@ -1306,7 +1306,7 @@ margin-bottom: 0px!important;
 }
 
 .gsst_a .gscb_a {
-color: #E97024!important;
+color: #8f9342!important;
 cursor: pointer;
 }
 
@@ -1338,7 +1338,7 @@ border-radius: 0!important;
 -moz-border-radius: 0!important;
 -webkit-border-radius: 0!important;
 border-color: none!important;
-background-color: #36457A!important;
+background-color: #8f9342!important;
 background-image: none!important;
 filter: none!important;
 }
@@ -1373,22 +1373,22 @@ display: none;
 }
 
 .gs-webResult.gs-result a.gs-title:visited, .gs-webResult.gs-result a.gs-title:visited b, .gs-imageResult a.gs-title:visited, .gs-imageResult a.gs-title:visited b {
-    color: #E97024!important;
+    color: #8f9342!important;
 }
 
 .gs-webResult.gs-result a.gs-title:link, .gs-webResult.gs-result a.gs-title:link b, .gs-imageResult a.gs-title:link, .gs-imageResult a.gs-title:link b {
-    color: #E97024!important;
+    color: #8f9342!important;
 }
 
 .gsc-results .gsc-cursor-box .gsc-cursor-current-page {
     border-color: #FFF;
     background-color: #FFFFFF!important;
-    color: #E97024!important;
+    color: #8f9342!important;
 }
 
 /*UPCOMING DATES*/
 .date {
-	background-color: #36457A;
+	background-color: #8f9342;
   padding: 0.5em;
   color: #FFF;
   font-family: 'Lato', sans-serif;
@@ -1401,7 +1401,7 @@ display: none;
 }
 
 .past-text {
-	color: #36457A;
+	color: #8f9342;
 }
 
 .events {
@@ -1414,7 +1414,7 @@ padding-bottom: 0;
 
 /* FOOTER */
 footer {
-  background-color: #E97024;
+  background-color: #8f9342;
   color: #FFF;
   padding: 1em;
 }
@@ -1435,7 +1435,7 @@ footer a {
 }
 
 footer a:hover {
-	color: #36457A;
+	color: #8f9342;
 	border-bottom: 1px solid;
 }
 
@@ -1445,7 +1445,7 @@ footer form {
 
 footer input[type="submit"], footer input[type="reset"] {
   background-color: #FFF;
-  color: #E97024;
+  color: #8f9342;
 }
 
 footer input[type="submit"]:hover, footer input[type="reset"]:hover {
@@ -1475,14 +1475,14 @@ textarea {
 }
 
 .copyright a {
-	color: #E97024;
+	color: #8f9342;
 	text-transform: uppercase;
 	text-decoration: none;
 	transition: all 0.8s ease;
 }
 
 .copyright a:hover {
-	color: #36457A;
+	color: #8f9342;
 	border-bottom: 1px solid;
 }
 
@@ -1509,7 +1509,7 @@ textarea {
 /* ---------------- ---------------------- */
 /* ACCOMMODATION */
 .ls-select-box:hover {
-	background-color: #36457A;
+	background-color: #8f9342;
 	color: #FFF;
 }
 
@@ -1602,7 +1602,7 @@ textarea {
 input[type="button"], input[type="reset"], input[type="submit"] {
   -webkit-appearance: button;
   cursor: pointer;
-  background-color: #E97024;
+  background-color: #8f9342;
   font-family: 'Lato', sans-serif;
   text-transform: uppercase;
   color: #FFF;
@@ -1617,7 +1617,7 @@ input[type="button"], input[type="reset"], input[type="submit"] {
 }
 
 input[type="reset"]:hover, input[type="submit"]:hover {
-  background-color: #36457A;
+  background-color: #8f9342;
 }
 
 .paypal table {
@@ -1641,12 +1641,12 @@ input[type="reset"]:hover, input[type="submit"]:hover {
 }
 
 .accommodation td {
-	border: 1px solid #E97024;
+	border: 1px solid #8f9342;
 	padding: 0 1em;
 }
 
 .bottom-border {
-	border-bottom: 1px solid #36457A;
+	border-bottom: 1px solid #8f9342;
 	padding-top: 1em;
 }
 
@@ -1984,7 +1984,7 @@ footer {
 
 	.cbp-af-inner nav .dot {
   		font-size: 1em;
-  		color: #36457A;
+  		color: #8f9342;
   		padding: 0 0.4em;
 	}
 
@@ -1994,7 +1994,7 @@ footer {
 	}
 
 	.cbp-af-header nav a:hover {
-	background-color: #36457A;
+	background-color: #8f9342;
 	padding: 1em 0.1em;
 	color: #FFF!important;
 	}
@@ -2016,7 +2016,7 @@ h1 {
 
 .subhead {
   padding: 0 1em 1.5em;
-  color: #E97024;
+  color: #8f9342;
 }
 
 .main-content {
@@ -2046,7 +2046,7 @@ h2 {
   padding: 0.5em;
   background-color: transparent;
   color: #000;
-  border-right: 1px solid #E97024;
+  border-right: 1px solid #8f9342;
     font-weight: 500;
 }
 
@@ -2199,11 +2199,11 @@ footer form {
 .cf:after {
     clear: both;
 }
-.announcement-text{
-	background-color: #E2E2E2;
-	padding: 10px;
-	margin-top: 0;
-	font-size: 90%;
+.announcement-text {
+    background-color: #E2E2E2;
+    padding: 10px;
+    margin-top: 0;
+    font-size: 90%;
 }
 .grid {
   letter-spacing: -0.31em;
@@ -2363,7 +2363,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 }
 
 .cbp-af-header nav a {
-	color: #E97024;/*
+	color: #8f9342;/*
 	font-weight: 200;*/
 	font-size: 1em;
 	text-decoration: none;
