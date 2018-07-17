@@ -1,5 +1,5 @@
 <?php
-$my_email = "registration@htffconference.com";
+$my_email = "registration@icaera.com";
 $errors = array();
 
 // Remove $_COOKIE elements from $_REQUEST.
@@ -41,11 +41,11 @@ $message = build_message($_REQUEST);
 
 $message = 'Dear Colleague,
 
-Thank you for registering for HTFF 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
+Thank you for registering for ICABBB 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
-If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@htffconference.com. You can find the copyright form here: www.2019.htffconference.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
+If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@iccefa.com. You can find the copyright form here: www.2019.icaera.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
-You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@htffconference.com mentioning the correct information. Please note that you SHOULD NOT refill the form.
+You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@icaera.com mentioning the correct information. Please note that you SHOULD NOT refill the form.
 
 ---
 
@@ -65,9 +65,9 @@ $headers = "From: " . $_REQUEST['email'];
 
 $your_email = $_REQUEST['email'];
 
-$your_subject = "Your Registration Details for HTFF'19";
+$your_subject = "Your Registration Details for ICABBB'19";
 
-$your_headers = "From: HTFF'19 <" . $my_email . ">";
+$your_headers = "From: ICABBB'19 <" . $my_email . ">";
 
 if ((($_FILES["file"]["type"] == "image/gif")
 
@@ -113,7 +113,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="heat transfer conference, cfd conference, fluid flow conference,  energy conference, combustion conference, heat pipe conference, renewable energy conference, rheology conference, turbulent flow conference, drying, feul cells, heat exchangers, nanofluids, multiphase flow, multiphase heat transfer, non-newtonian flow, porous media, thermodynamics, fluid mechanics, fluid dynamics, heat transfer, cfd, fluid flow, energy, combustion, heat pipe, renewable energy, rheology, turbulent flow, drying conference, feul cells conference, heat exchangers conference, nanofluids conference, multiphase flow conference, multiphase heat transfer conference, non-newtonian flow conference, porous media conference, thermodynamics conference, fluid mechanics conference, fluid dynamics conference">
-<title>HTFF'19 - Registration Form Filled!</title>
+<title>ICABBB'19 - Registration Form Filled!</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -143,7 +143,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
 <body>
 <nav id="slide-menu">
-  <h1>HTFF'19</h1>
+  <h1>ICABBB'19</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Submissions</a></li>
@@ -184,8 +184,8 @@ mail($your_email,$your_subject,$message,$your_headers);
   </div>
 </div>
         <div class="bg">
-          <h1>6<sup>th</sup> International Conference on Heat<br>Transfer and Fluid Flow (HTFF'19)</h1>
-          <p class="subhead">August 15 - 17, 2019 | Lisbon, Portugal</p>
+          <h1>International Conference on<br> Advances in Bioscience, Bioengineering, and Biotechnology (ICABBB'19)</h1>
+          <p class="subhead">November, 2019 | Orlando, Florida</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -212,8 +212,8 @@ mail($your_email,$your_subject,$message,$your_headers);
         </div>
 
         <div class="bg">
-          <h1>6<sup>th</sup> International Conference on Heat<br>Transfer and Fluid Flow (HTFF'19)</h1>
-          <p class="subhead">August 15 - 17, 2019 | Lisbon, Portugal</p>
+          <h1>International Conference on<br> Advances in Bioscience, Bioengineering, and Biotechnology (ICABBB'19)</h1>
+          <p class="subhead">November, 2019 | Orlando, Florida</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -250,9 +250,9 @@ mail($your_email,$your_subject,$message,$your_headers);
 
   <p class="body">If you have requested any official invitation letters, please allow up to 5 business days to receive your documents.</p> 
 
-    <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@htffconference.com" class="body-link">registration@htffconference.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
+    <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@icaera.com" class="body-link">registration@icaera.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
 
-  <p class="body">We are looking forward to seeing you at HTFF'19!</p>
+  <p class="body">We are looking forward to seeing you at ICABBB'19!</p>
   </div>
 </div>
 
@@ -273,13 +273,13 @@ mail($your_email,$your_subject,$message,$your_headers);
     Orl&eacute;ans, Ontario, Canada<br>
     Postal Code: K1C 1G1<br>
     +1-613-834-9999<br>
-    <a href="mailto:info@htffconference.com">info@htffconference.com</a></p>
+    <a href="mailto:info@iccefa.com">info@iccefa.com</a></p>
     </div>
   </div>
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding HTFF'19, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding ICABBB'19, please fill out the form below:</p>
 
    <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm" class="cf">
   <div class="half left cf">
